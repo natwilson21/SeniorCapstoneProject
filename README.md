@@ -7,7 +7,7 @@
 ---
 
 ## Overview
-This repository contains the design, implementation, and testing code for our **Senior Capstone Project (Jan–May 2025)**: an autonomous sensing platform that detects and locates people in smoke-filled environments to assist first responders during fires.
+This repository contains the design, implementation, and testing code for our **Senior Capstone Project (June 2024–May 2025)**: an autonomous sensing platform that detects and locates people in smoke-filled environments to assist first responders during fires.
 
 The system integrates **Texas Instruments mmWave cascading radar** with an **Intel RealSense depth camera** to combine RF point cloud data with optical depth imaging. A custom-trained machine learning model identifies human figures and reports their location and count in real time, even in low-visibility conditions.
 

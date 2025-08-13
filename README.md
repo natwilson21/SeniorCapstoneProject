@@ -25,7 +25,7 @@ The system integrates **Texas Instruments mmWave cascading radar** with an **Int
 ## System Architecture
 ```
 [ TI mmWave Radar ] ---> RF Point Cloud ----┐
-                                            │--> Sensor Fusion --> Human Detection (ML)
+                                            │--> Sensor Fusion --> Human Detection (YOLOv8, Roboflow)
 [ Intel RealSense ] --> Depth Images -------┘                         │
                                                                     Output to UI
 ```
@@ -35,7 +35,7 @@ The system integrates **Texas Instruments mmWave cascading radar** with an **Int
 ## Technologies
 **Hardware:** TI mmWave Cascading Imaging Radar, Intel RealSense Depth Camera  
 **Software:** Python, OpenCV, ROS2, YOLO, NumPy, Intel RealSense SDK  
-**ML Frameworks:** PyTorch / YOLOv8  
+**ML Frameworks:** PyTorch / YOLOv8, Roboflow  
 **Tools:** Docker, Git, Fog Simulation Test Rig  
 
 ---

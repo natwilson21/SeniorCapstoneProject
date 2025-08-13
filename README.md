@@ -95,12 +95,13 @@ Test data is available in `test/` for reproducing results.
 ---
 
 ## Team
+- Natalia Wilson
 - Sameeha Boga  
 - Daniel Fontaine  
 - Arya Goyal  
 - Eve Mooney  
 - Daniela Salazar  
-- Natalia Wilson  
+  
 
 **Advisor:** Professor Jose Angel Martinez Lorenzo  
 

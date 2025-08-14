@@ -42,11 +42,10 @@ The system integrates **Texas Instruments mmWave cascading radar** with an **Int
 
 ## Repository Structure
 ```
-📂 src/                # Core source code for data acquisition, fusion, and detection
-📂 models/             # Trained machine learning models
-📂 scripts/            # Utility scripts for data processing and testing
 📂 docs/               # Documentation, diagrams, and system design files
-📂 test/               # Test scripts and sample datasets
+📂 media/              # Images and Videos of Testing
+📂 src/                # Core source code for data acquisition, fusion, and detection
+📂 outputs/            # Results obtained from source code
 README.md              # Project documentation (this file)
 LICENSE                # License information (MIT recommended)
 ```

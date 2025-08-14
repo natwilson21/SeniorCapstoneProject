@@ -89,7 +89,7 @@ The system will:
 
 ## Testing
 We used a **fog simulation chamber** to recreate low-visibility conditions.  
-Test data is available in `test/` for reproducing results.
+Testing apparatus is available to see in `media/images/` for reproducing results.
 
 ---
 
